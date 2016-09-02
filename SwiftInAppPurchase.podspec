@@ -28,6 +28,7 @@ This CocoaPod provide the ability of in app purchase (IAP)
   # s.social_media_url = 'https://twitter.com/Rawd7'
 
   s.platform     = :ios, '8.0'
+  s.platform     = :tvos, '9.0'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'
